@@ -1,0 +1,44 @@
+Rudra Patel
+patelrudra854@gmail.com | (747) 786-5589 | LinkedIn | Los Angeles, CA
+WORK EXPERIENCE
+Research Assistant - NASA-Collaborative Robotics & AI | ARCS Lab, CSUN Ongoing
+• Developed autonomous navigation systems for NASA rover prototypes using ROS2 and 
+reinforcement learning.
+• Engineered a generative AI pipeline (GANs, PyTorch) to simulate Martian terrain for NASA 
+missions.
+• Designed a computer vision module (OpenCV, YOLOv8) to identify mission-critical landmarks.
+Intern - Data Scientist | India Space Research Organization (ISRO) Jan 2024 - May 2024
+• Developed ML models to detect mineral deposits in oceans using satellite data.
+• Engineered rainfall prediction models using TensorFlow and PyTorch.
+• Automated data preprocessing pipelines with Python, reducing cleaning time.
+Intern - Machine Learning Developer | Nxon AI Pvt. Ltd. May 2022 - Nov 2023 • Created an LSTM-based stock price prediction model (Python, TensorFlow).
+• Developed and fine-tuned LLM-based question-answering systems using Retrieval-Augmented 
+Generation (RAG) pipelines for domain-specific applications.
+• Integrated APIs and automated data ingestion workflows using Python, Selenium, and LangChain, 
+optimizing performance across the pipeline.
+PROJECTS
+Legal Chatbot for Washington State Law
+• Created a RAG-based legal assistant using OpenAI and LLaMA models to answer questions based 
+on Washington state legal documents.
+• Implemented document ingestion using LangChain, SQL, and vector databases to retrieve 
+context-specific answers with source references, simplifying access to legal information for non￾technical users.
+AI Assistant for Doctors and Patients
+• Developed an AI assistant using Large Language Models (LLMs) to provide treatment suggestions 
+and doctor recommendations.
+YouTube Video Summarizer
+• Built a tool using Haystack, OpenAI LLM, and Whisper transcriber to summarize YouTube videos, 
+reducing viewing time by 30 minutes per user.
+EDUCATION
+California State University of Northridge Master of Computer Science, expected May 2026
+GPA: 4
+CSPIT, Charusat University, India Bachelor of Engineering in Information Technology, May 2024
+GPA: 8.7/10.0, 2nd rank among 28,000 engineering students
+CERTIFICATION
+•	ORACLE CLOUD INFRASTRUCTURE 2024 GENERATIVE AI CERTIFIED PROFESSIONAL. Jul - 2024 
+•	CAREER ESSENTIALS IN DATA ANALYSIS BY MICROSOFT AND LINKEDIN Mar - 2024 
+•	ORACLE CLOUD INFRASTUCTURE FOUNDATION CERTIFIED ASSOCIATE Jan - 2024 
+•	AWS ACADEMY GRADUATE - AWS ACADEMY CLOUD FOUNDATIONS Nov - 2023 
+•	AWS ACADEMY GRADUATE - AWS ACADEMY MACHINE LEARNING FOUNDATIONS Apr -2023
+PUBLICATIONS
+GAN-based Image Super-resolution: A Technical Perspective" in International Conference on ICT for 
+Intelligent Systems (2023)(Link)
