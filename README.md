@@ -48,18 +48,6 @@ Inside the conversational-dialog/ folder, create a .env file:
 OPENAI_API_KEY=your_openai_api_key_here
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 
-▶️ Usage
-
-Option A — 🖥️ Command-line (Terminal)
-python conversational-dialog/interviewer.py
-This version uses your microphone input and plays audio responses using pygame.
-
-Option B — 🌐 Web UI (Gradio)
-python conversational-dialog/app.py
-Then open your browser and go to:
-
-http://localhost:7860
-From here, speak directly into the mic and get dynamic audio + text responses.
 
 🛠️ How We Built It
 
