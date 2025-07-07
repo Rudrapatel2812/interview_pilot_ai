@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-client = anthropic.Anthropic(api_key=os.environ.get("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"))
+client = anthropic.Anthropic(api_key=os.environ.get('ANTHROPIC_API_KEY'))
 
 def summarize_interview(transcript, criteria):
 
